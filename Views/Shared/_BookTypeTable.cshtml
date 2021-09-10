@@ -1,0 +1,17 @@
+﻿@model IEnumerable<test.Models.BookType>
+    <link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NameBookType)
+                </td>
+                <td>
+                    <a asp-action="Update" asp-route-id="@item.IdBookType">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdBookType">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>

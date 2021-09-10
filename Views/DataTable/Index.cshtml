@@ -1,0 +1,272 @@
+﻿@model test.ViewModels.BankDataVM
+
+    <link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+
+    <style>
+        .nav-pills .nav-link.active {
+            background-color: #a2de96 !important;
+        }
+    </style>
+
+    <ul class="nav nav-pills red">
+        <li class="nav-item">
+            <a class="nav-link active" data-toggle="pill" href="#home">Book Types</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="pill" href="#menu1">Interests</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="pill" href="#menu2">Detail Interests</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="pill" href="#menu3">Terms</a>
+        </li>
+    </ul>
+
+    <div class="tab-content">
+        <div class="tab-pane container active p-0" id="home" style="margin-top:15px;">
+            <table id="productTable" class="table table-bordered text-center" style="width:100%;">
+                <thead class="bg-success text-white">
+                    <tr>
+                        <th>Book Type Code</th>
+                        <th>Name Book Type</th>
+                        <th>
+                            <a style="border: solid 1px white" class="btn btn-outline-light" asp-action="BookTypeUpdate">
+                                <i class="fas fa-plus"></i>
+                                Create new
+                            </a>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.BookTypes)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.IdBookType)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.NameBookType)
+                            </td>
+                            <td>
+                                <a  class="btn btn-success" asp-action="BookTypeUpdate" asp-route-id="@item.IdBookType">
+                                    <i class="fas fa-edit"></i>
+                                    Edit
+                                </a>
+                                <a  class="btn btn-danger" asp-action="BookTypeDelete" asp-route-id="@item.IdBookType">
+                                    <i class="fas fa-trash"></i>
+                                    Delete
+                                </a>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+        <div class="tab-pane container p-0" id="menu1" style="margin-top:15px;">
+            <table id="productTable" class="table table-bordered text-center" style="width:100%;">
+                <thead class="bg-success text-white">
+                    <tr>
+                        <th>Interest Code</th>
+                        <th>Applied From</th>
+                        <th>Applied To</th>
+                        <th>
+                            <a style="border: solid 1px white" class="btn btn-outline-light" asp-action="InterestUpdate">
+                                <i class="fas fa-plus"></i>
+                                Create new
+                            </a>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Interests)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.IdInterest)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.AppliedFrom)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.AppliedTo)
+                            </td>
+                            <td>
+                                <a  class="btn btn-success" asp-action="InterestUpdate" asp-route-id="@item.IdInterest">
+                                    <i class="fas fa-edit"></i>
+                                    Edit
+                                </a>
+                                <a  class="btn btn-danger" asp-action="InterestDelete" asp-route-id="@item.IdInterest">
+                                    <i class="fas fa-trash"></i>
+                                    Delete
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <div class="tab-pane container fade p-0" id="menu2" style="margin-top:15px;">
+            <table id="orderTable" class="table table-bordered text-center" style="width:100%;">
+                <thead class="bg-success text-white">
+                    <tr>
+                        <th>Detail Interest Code</th>
+                        <th>Interest From</th>
+                        <th>Term</th>
+                        <th>Interest Rate</th>
+                        <th>
+                            <a style="border: solid 1px white" class="btn btn-outline-light" asp-action="DetailInterestUpdate">
+                                <i class="fas fa-plus"></i>
+                                Create new
+                            </a>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.DetailInterests)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.IdDI)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Interest.AppliedFrom)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Term.NameTerm)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.InterestRateDI)
+                            </td>
+                            <td>
+                                <a  class="btn btn-success" asp-action="DetailInterestUpdate" asp-route-id="@item.IdDI">
+
+                                    <i class="fas fa-edit"></i>
+                                    Edit
+                                </a>
+                                <a class="btn btn-danger" asp-action="DetailInterestDelete" asp-route-id="@item.IdDI">
+
+                                    <i class="fas fa-trash"></i>
+                                    Delete
+
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <div class="tab-pane container fade p-0" id="menu3" style="margin-top:15px;">
+            <table id="orderItemTable" class="table table-bordered text-center" style="width:100%;">
+                <thead class="bg-success text-white">
+                    <tr>
+                        <th>Term Code</th>
+                        <th>Name</th>
+                        <th>Interest Rate</th>
+                        <th>
+                            <a style="border: solid 1px white" class="btn btn-outline-light" asp-action="TermUpdate">
+                                <i class="fas fa-plus"></i>
+                                Create new
+                            </a>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Terms)
+                    {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.IdTerm)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NameTerm)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.InterestRateT)
+                        </td>
+                        
+                        <td>
+                            <a class="btn btn-success" asp-action="TermUpdate" asp-route-id="@item.IdTerm">
+
+                                <i class="fas fa-edit"></i>
+                                Edit
+
+                            </a>
+                            <a class="btn btn-danger" asp-action="TermDelete" asp-route-id="@item.IdTerm">
+
+                                <i class="fas fa-trash"></i>
+                                Delete
+
+                            </a>
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script src="@Url.Content("~/Scripts/jquery-3.4.1.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/DataTables/jquery.dataTables.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/DataTables/dataTables.bootstrap4.min.js")"></script>
+
+    <script type="text/javascript">
+
+    $(document).ready(function () {
+        $("#booktypesTable").DataTable({
+            "ajax": {
+                "url": "@Url.Action("GetBookTypes", "DataTable")",
+                "type": "GET",
+                "datatype": "json"
+            },
+            "columns": [
+                { "data": "NameBookType" }
+            ]
+        });
+        //Product Table
+        $("#productTable").DataTable({
+            "ajax": {
+                "url": "@Url.Action("GetProducts", "Home")",
+                "type": "GET",
+                "datatype": "json"
+            },
+            "columns": [
+                { "data": "ProductName" },
+                { "data": "SupplierId" },
+                { "data": "UnitPrice" },
+                { "data": "Package" },
+                { "data": "IsDiscontinued" },
+            ]
+
+        });
+        //Order Table
+        $("#orderTable").DataTable({
+            "ajax": {
+                "url": "@Url.Action("GetOrders", "Home")",
+                "type": "GET",
+                "datatype": "json"
+            },
+            "columns": [
+                { "data": "OrderDate" },
+                { "data": "OrderNumber" },
+                { "data": "CustomerId" },
+                { "data": "TotalAmount" }
+            ]
+        });
+        //Order Item
+        $("#orderItemTable").DataTable({
+            "ajax": {
+                "url": "@Url.Action("GetOrderItem", "Home")",
+                "type": "GET",
+                "datatype": "json"
+            },
+            "columns": [
+                { "data": "OrderId" },
+                { "data": "ProductId" },
+                { "data": "UnitPrice" },
+                { "data": "Quantity" }
+            ]
+        });
+    });
+    </script> 

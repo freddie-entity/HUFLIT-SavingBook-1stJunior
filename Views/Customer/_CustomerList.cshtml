@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Customer>
+
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+
+<table class="table table-bordered table-hover text-center">
+    <thead class="bg-success">
+        <tr>
+            <th class="text-white">@Html.DisplayNameFor(model => model.NameCust)</th>
+            <th class="text-white">@Html.DisplayNameFor(model => model.DOBCust)</th>
+            <th class="text-white">@Html.DisplayNameFor(model => model.AddressCust)</th>
+            <th class="text-white">@Html.DisplayNameFor(model => model.PhoneCust)</th>
+            <th class="text-white">@Html.DisplayNameFor(model => model.IDCardCust)</th>
+            <th>
+                <a style="border: solid 1px white" onclick="showInPopup('@Url.Action("Create","Customer",null,Context.Request.Scheme)','New Customer')" class="text-white btn btn-outline-success">
+
+                    <i class="fas fa-user-plus"></i>
+                    New Customer
+
+                </a>
+            </th>
+        </tr>
+    </thead>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(model => item.NameCust)</td>
+            <td>@Html.DisplayFor(model => item.DOBCust)</td>
+            <td>@Html.DisplayFor(model => item.AddressCust)</td>
+            <td>@Html.DisplayFor(model => item.PhoneCust)</td>
+            <td>@Html.DisplayFor(model => item.IDCardCust)</td>
+            <td class="text-center text-white">
+                <a onclick="showInPopup('@Url.Action("Create","Customer",new { id = item.IdCust},Context.Request.Scheme)','Update Customer')" class="btn btn-success">
+                    <i class="fas fa-edit"></i>
+                    Edit
+                </a>
+                <form method="post" asp-action="Delete" asp-route-id="@item.IdCust" class="d-inline" onsubmit="return jQueryAjaxDelete(this);">
+                    <input type="submit" value="Delete" class="btn btn-danger" />
+                </form>
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,122 @@
+﻿@model test.Models.SavingBook
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+
+<h1 class="text-center">
+    <i class="fas fa-book text-success"></i>
+    Saving Book
+</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdSB" />
+            <div class="form-group">
+                <label asp-for="IdCust" class="control-label"></label>
+                <select asp-for="IdCust" class="form-control" asp-items="ViewBag.IdCust"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdS" class="control-label"></label>
+                <select asp-for="IdS" class="form-control" asp-items="ViewBag.IdS"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdBookType" class="control-label"></label>
+                <select id="dropdownlist" asp-for="IdBookType" class="form-control" asp-items="ViewBag.IdBookType"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdTerm" class="control-label"></label>
+                <select asp-for="IdTerm" class="form-control" asp-items="ViewBag.IdTerm"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="DepositsSB" class="control-label"></label>
+                <input asp-for="DepositsSB" class="form-control" />
+                <span asp-validation-for="DepositsSB" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="OpenDaySB" />
+            <input type="hidden" asp-for="DueDaySB" />
+            @*<div class="form-group">
+                    <label asp-for="OpenDaySB" class="control-label"></label>
+                    <input asp-for="OpenDaySB" class="form-control" />
+                    <span asp-validation-for="OpenDaySB" class="text-danger"></span>
+                </div>
+                <div class="form-group" id="dueday">
+                    <label asp-for="DueDaySB" class="control-label"></label>
+                    <input asp-for="DueDaySB" class="form-control" />
+                    <span asp-validation-for="DueDaySB" class="text-danger"></span>
+                </div>*@
+            <input type="hidden" asp-for="InterestPaymentMethodSB" />
+            @*<div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input class="form-check-input" asp-for="InterestPaymentMethodSB" /> @Html.DisplayNameFor(model => model.InterestPaymentMethodSB)
+                    </label>
+                </div>*@
+            <div class="form-group">
+                <label asp-for="InterestReceivingAccount" class="control-label"></label>
+                <input asp-for="InterestReceivingAccount" class="form-control" />
+                <span asp-validation-for="InterestReceivingAccount" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="CurrentBalance" />
+            @*<div class="form-group">
+                    <label asp-for="CurrentBalance" class="control-label"></label>
+                    <input asp-for="CurrentBalance" class="form-control" />
+                    <span asp-validation-for="CurrentBalance" class="text-danger"></span>
+                </div>*@
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    <div class="col-md-4">
+
+    </div>
+    <div class="col-md-4">
+        <!-- Collapsable Card Example -->
+        <div class="card shadow mb-4">
+            <!-- Card Header - Accordion -->
+            <a href="#collapseCardExample" class="d-block card-header py-3" data-toggle="collapse"
+               role="button" aria-expanded="true" aria-controls="collapseCardExample">
+                <h6 class="m-0 font-weight-bold text-capitalize">
+                    SAVING BOOK PRINCIPALS
+                </h6>
+            </a>
+            <!-- Card Content - Collapse -->
+            <div class="collapse show" id="collapseCardExample">
+                <div class="card-body">
+                    <ul>
+                        <li>
+                            Type your input data correctly. Deposit must be numeric, Receiving Account only accepts alpha-numeric.
+                        </li>
+                        <li>
+                            Create saving book only if the customer data has already existed.
+                        </li>
+                        <li>
+                            Carefully abide by the bank rules.
+                        </li>
+                        <li>
+                            Contact manager if there is any unexpected situation.
+                        </li>                    
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mb-3">
+    <a style="width: 90px" class="btn btn-dark btn-sm" asp-action="Index">
+
+        <i class="fas fa-arrow-left"></i>
+
+    </a>
+</div>
+
+
+
+

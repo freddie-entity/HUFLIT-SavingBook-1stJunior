@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TiGao\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TiGao\\.nuget\\packages"
+    ]
+  }
+}

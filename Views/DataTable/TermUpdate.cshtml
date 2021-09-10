@@ -1,0 +1,43 @@
+﻿@model test.Models.Term
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+
+
+<h2 style="margin: 50px" class="text-center">Term</h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="TermUpdate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdTerm" />
+            <div class="form-group">
+                <label asp-for="NameTerm" class="control-label"></label>
+                <input asp-for="NameTerm" class="form-control" />
+                <span asp-validation-for="NameTerm" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InterestRateT" class="control-label"></label>
+                <input asp-for="InterestRateT" class="form-control" />
+                <span asp-validation-for="InterestRateT" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="mb-3">
+    <a style="width: 90px" class="btn btn-dark btn-sm" asp-action="Index">
+
+        <i class="fas fa-arrow-left"></i>
+
+    </a>
+</div>
+

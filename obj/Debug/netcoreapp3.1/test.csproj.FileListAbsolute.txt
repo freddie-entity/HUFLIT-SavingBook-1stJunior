@@ -1,0 +1,1084 @@
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\test.exe
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\test.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\test.pdb
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\test.Views.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\test.Views.pdb
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.RazorAssemblyInfo.cache
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.RazorAssemblyInfo.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.TagHelpers.input.cache
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.TagHelpers.output.cache
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.RazorCoreGenerate.cache
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Shared\_ViewImports.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Shared\_ViewStart.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\CreateRole.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditRole.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditUser.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditUsersInRole.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\RoleList.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\UserList.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\_LoginPartialView.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Bank\Create.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Bank\Index.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\BookTypes\Index.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\BookTypes\Update.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\_CustomerList.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\Index.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DetailInterests\Create.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DetailInterests\Index.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DetailReports\Create.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DetailReports\Index.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Interests\Index.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Interests\Update.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Reports\Index.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Reports\Update.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Staffs\Create.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Staffs\Index.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Terms\Create.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Terms\Index.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.RazorTargetAssemblyInfo.cache
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.RazorTargetAssemblyInfo.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.Views.pdb
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.csproj.CopyComplete
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.dll
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.pdb
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.MvcApplicationPartsAssemblyInfo.cs
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\test.MvcApplicationPartsAssemblyInfo.cache
+D:\HUFLIT\3\CNPM\STUDY\test\test\bin\Debug\netcoreapp3.1\test.StaticWebAssets.xml
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\staticwebassets\test.StaticWebAssets.Manifest.cache
+D:\HUFLIT\3\CNPM\STUDY\test\test\obj\Debug\netcoreapp3.1\staticwebassets\test.StaticWebAssets.xml
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\test.StaticWebAssets.xml
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\test.exe
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\test.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\test.pdb
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\test.Views.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\test.Views.pdb
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.RazorAssemblyInfo.cache
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.RazorAssemblyInfo.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\staticwebassets\test.StaticWebAssets.xml
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\scopedcss\bundle\test.styles.css
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.TagHelpers.input.cache
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.TagHelpers.output.cache
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.RazorCoreGenerate.cache
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Shared\_ViewImports.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Shared\_ViewStart.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\RoleList.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\UserList.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\_LoginPartialView.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Bank\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Bank\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\_CustomerList.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DetailReports\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DetailReports\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Reports\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Reports\Update.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Staffs\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Staffs\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.RazorTargetAssemblyInfo.cache
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.RazorTargetAssemblyInfo.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.Views.pdb
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.csproj.CopyComplete
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.dll
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.pdb
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
+C:\Users\hytra\Desktop\test\test\test\bin\Debug\netcoreapp3.1\Westwind.AspNetCore.LiveReload.dll
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\BookTypeUpdate.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\DetailInterestUpdate.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\InterestUpdate.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\TermUpdate.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BookTypeTable.cshtml.g.cs
+C:\Users\hytra\Desktop\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_InterestTable.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\test.StaticWebAssets.xml
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\test.exe
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\test.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\test.pdb
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\test.Views.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\test.Views.pdb
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\Westwind.AspNetCore.LiveReload.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.RazorAssemblyInfo.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.RazorAssemblyInfo.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\staticwebassets\test.StaticWebAssets.xml
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\scopedcss\bundle\test.styles.css
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.TagHelpers.input.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.TagHelpers.output.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.RazorCoreGenerate.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Shared\_ViewImports.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Shared\_ViewStart.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\RoleList.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\UserList.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\_LoginPartialView.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Bank\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Bank\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\_CustomerList.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\BookTypeUpdate.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\DetailInterestUpdate.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\InterestUpdate.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\TermUpdate.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DetailReports\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DetailReports\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Reports\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Reports\Update.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BookTypeTable.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_InterestTable.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Staffs\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Staffs\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.RazorTargetAssemblyInfo.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.RazorTargetAssemblyInfo.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.Views.pdb
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.csproj.CopyComplete
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.pdb
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\test.StaticWebAssets.xml
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\test.exe
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\test.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\test.pdb
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\test.Views.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\test.Views.pdb
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\Westwind.AspNetCore.LiveReload.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.RazorAssemblyInfo.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.RazorAssemblyInfo.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\staticwebassets\test.StaticWebAssets.xml
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\scopedcss\bundle\test.styles.css
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.TagHelpers.input.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.TagHelpers.output.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.RazorCoreGenerate.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Shared\_ViewImports.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Shared\_ViewStart.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\RoleList.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\UserList.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\_LoginPartialView.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Bank\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Bank\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\_CustomerList.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\BookTypeUpdate.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\DetailInterestUpdate.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\InterestUpdate.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\TermUpdate.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DetailReports\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DetailReports\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Reports\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Reports\Update.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BookTypeTable.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_InterestTable.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Staffs\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Staffs\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.RazorTargetAssemblyInfo.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.RazorTargetAssemblyInfo.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.Views.pdb
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.csproj.CopyComplete
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.dll
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.pdb
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DepositPapers\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DepositPapers\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\SavingBooks\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\SavingBooks\Index.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\WithdrawalPapers\Create.cshtml.g.cs
+C:\Users\hytra\Desktop\Đồ án CNPM\QLSTK_Master\test\test\obj\Debug\netcoreapp3.1\Razor\Views\WithdrawalPapers\Index.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\test.StaticWebAssets.xml
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\test.exe
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\test.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\test.pdb
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\test.Views.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\test.Views.pdb
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\Westwind.AspNetCore.LiveReload.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\TiGao\Downloads\test\test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.RazorAssemblyInfo.cache
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.RazorAssemblyInfo.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.TagHelpers.input.cache
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.TagHelpers.output.cache
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.RazorCoreGenerate.cache
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Shared\_ViewImports.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Shared\_ViewStart.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\RoleList.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Administration\UserList.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Account\_LoginPartialView.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Bank\Create.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Bank\Index.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Customer\_CustomerList.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\BookTypeUpdate.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\DetailInterestUpdate.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\Index.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\InterestUpdate.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DataTable\TermUpdate.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DepositPapers\Create.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DepositPapers\Index.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DetailReports\Create.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\DetailReports\Index.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Reports\Index.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Reports\Update.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Reports\_ReportList.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\SavingBooks\Create.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\SavingBooks\Index.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AccessDenied.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BookTypeTable.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_InterestTable.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Staffs\Create.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\Staffs\Index.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\WithdrawalPapers\Create.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\WithdrawalPapers\Index.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.RazorTargetAssemblyInfo.cache
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.RazorTargetAssemblyInfo.cs
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.Views.pdb
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.csproj.CopyComplete
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\staticwebassets\test.StaticWebAssets.xml
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.dll
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.pdb
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
+C:\Users\TiGao\Downloads\test\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache

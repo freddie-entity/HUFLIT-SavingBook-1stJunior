@@ -1,0 +1,60 @@
+﻿@model IEnumerable<test.Models.Bank>
+
+@{
+    ViewData["Title"] = "Bank List";
+}
+
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+<h1 style="margin: 50px;" class="text-center text-black-50">
+    <i class="fa fa-bank text-success mr-3"></i>
+    Bank Management
+</h1>
+
+
+<table class="table table-bordered table-hover text-center">
+    <thead class="text-white bg-success text-center">
+        <tr>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.NameBank)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.AddressBank)
+            </th>
+            <th class="text-black-50">
+                <a style="border: solid 1px white" class="text-white btn btn-outline-success" asp-action="Create">
+
+                    <i class="fas fa-plus"></i>
+                    Create new Bank
+
+                </a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NameBank)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AddressBank)
+                </td>
+                <td class="text-center">
+                    <a  class="btn btn-success" asp-action="Create" asp-route-id="@item.IdBank">
+
+                        <i class="fas fa-edit"></i>
+                        Edit
+                    </a>
+                    <a  class="btn btn-danger" asp-action="Delete" asp-route-id="@item.IdBank">
+
+                        <i class="fas fa-trash"></i>
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

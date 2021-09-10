@@ -1,0 +1,66 @@
+﻿@model test.Models.DetailReport
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+
+<h1>Create</h1>
+
+<h4>DetailReport</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdDR" />
+            <div class="form-group">
+                <label asp-for="IdReport" class="control-label"></label>
+                <select asp-for="IdReport" class="form-control" asp-items="ViewBag.IdReport"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdBookType" class="control-label"></label>
+                <select asp-for="IdBookType" class="form-control" asp-items="ViewBag.IdBookType"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="OpenedBooks" class="control-label"></label>
+                <input asp-for="OpenedBooks" class="form-control" />
+                <span asp-validation-for="OpenedBooks" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ClosedBooks" class="control-label"></label>
+                <input asp-for="ClosedBooks" class="form-control" />
+                <span asp-validation-for="ClosedBooks" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalBooks" class="control-label"></label>
+                <input asp-for="TotalBooks" class="form-control" />
+                <span asp-validation-for="TotalBooks" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalRevenue" class="control-label"></label>
+                <input asp-for="TotalRevenue" class="form-control" />
+                <span asp-validation-for="TotalRevenue" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalExpense" class="control-label"></label>
+                <input asp-for="TotalExpense" class="form-control" />
+                <span asp-validation-for="TotalExpense" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="mb-3">
+    <a style="width: 90px" class="btn btn-dark btn-sm" asp-action="Index">
+
+        <i class="fas fa-arrow-left"></i>
+
+    </a>
+</div>
+

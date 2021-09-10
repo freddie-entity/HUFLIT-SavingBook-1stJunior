@@ -1,0 +1,97 @@
+﻿@model IEnumerable<test.Models.SavingBook>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<AppUser> signInManager;
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+<h1 class="text-center text-success">
+    <i class="fas fa-book"></i>
+    Saving Book Management
+</h1>
+
+<div class="text-left">
+
+    <form class="form-inline mr-auto w-100 navbar-search" method="get" asp-action="Index">
+        <div class="input-group">
+            <input type="text" class="form-control bg-light border-dark small"
+                   placeholder="Enter data ID..." aria-label="Search"
+                   aria-describedby="basic-addon2" value="@ViewData["GetDetails"]" name="text" style="width:auto;">
+            <div class="input-group-append">
+                <button class="btn btn-sm" type="submit">
+                    <i class="fas fa-search"></i>
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<p class="text-center">
+    <a class="btn btn-success btn-sm" asp-action="Create">Create New</a>
+    <a class="btn btn-danger btn-sm" asp-action="Create" asp-controller="DepositPapers">Deposit</a>
+    <a class="btn btn-info btn-sm" asp-action="Create" asp-controller="WithdrawalPapers">Withdraw</a>
+</p>
+
+<table class="table table-bordered table-hover table-striped table-success text-center">
+    <thead class="text-black">
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => model.IdSB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookType.NameBookType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Term.NameTerm)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OpenDaySB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DueDaySB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CurrentBalance)
+            </th>
+            <th>
+                <a asp-action="Index" class="btn btn-success btn-sm">All</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdSB)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BookType.NameBookType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Term.NameTerm)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OpenDaySB)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DueDaySB)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CurrentBalance)
+                </td>
+                <td>
+                    <a class="btn btn-primary btn-sm" asp-action="Create" asp-route-id="@item.IdSB">Edit</a>
+                    @if (signInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                    {
+                        <a class="btn btn-warning btn-sm" asp-action="Delete" asp-route-id="@item.IdSB">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

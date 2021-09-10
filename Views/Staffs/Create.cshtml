@@ -1,0 +1,83 @@
+﻿@model test.Models.Staff
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+<h1 class="text-center">
+    <i class="fas fa-user text-warning"></i>
+    Create new staff
+</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdS" />
+            <div class="form-group">
+                <label asp-for="NameS" class="control-label"></label>
+                <input asp-for="NameS" class="form-control" />
+                <span asp-validation-for="NameS" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdBank" class="control-label"></label>
+                <select asp-for="IdBank" class="form-control" asp-items="ViewBag.IdBank"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="DOBS" class="control-label"></label>
+                <input asp-for="DOBS" class="form-control" />
+                <span asp-validation-for="DOBS" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IDCardS" class="control-label"></label>
+                <input asp-for="IDCardS" class="form-control" />
+                <span asp-validation-for="IDCardS" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IDCardGrantedDayS" class="control-label"></label>
+                <input asp-for="IDCardGrantedDayS" class="form-control" />
+                <span asp-validation-for="IDCardGrantedDayS" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PositionS" class="control-label"></label>
+                <input asp-for="PositionS" class="form-control" />
+                <span asp-validation-for="PositionS" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneS" class="control-label"></label>
+                <input asp-for="PhoneS" class="form-control" />
+                <span asp-validation-for="PhoneS" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="WorkingStatus" /> @Html.DisplayNameFor(model => model.WorkingStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="StartWorking" class="control-label"></label>
+                <input asp-for="StartWorking" class="form-control" />
+                <span asp-validation-for="StartWorking" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EndWorking" class="control-label"></label>
+                <input asp-for="EndWorking" class="form-control" />
+                <span asp-validation-for="EndWorking" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="mb-3">
+    <a style="width: 90px" class="btn btn-dark btn-sm" asp-action="Index">
+
+        <i class="fas fa-arrow-left"></i>
+
+    </a>
+</div>
+

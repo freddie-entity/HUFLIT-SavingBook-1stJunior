@@ -1,0 +1,43 @@
+﻿@model IEnumerable<test.Models.Report>
+
+<table class="table">
+    <thead class="bg-gradient-secondary">
+        <tr class="text-white">
+            <th>
+                @Html.DisplayNameFor(model => model.IdReport)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.From)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.To)
+            </th>
+            <th>
+
+                <a style="color: aliceblue; border: solid white 1px" onclick="showInPopup('@Url.Action("Update","Reports",null,Context.Request.Scheme)','New Report')" class="btn btn-outline-secondary text-white">Create New</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdReport)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.From)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.To)
+                </td>
+                <td>
+                    <a onclick="showInPopup('@Url.Action("Update","Reports",new { id= item.IdReport},Context.Request.Scheme)','Edit Report')" style="border: solid 1px white; color: aliceblue" class="btn btn-success">Edit</a>
+                    <form method="post" asp-action="Delete" asp-route-id="@item.IdReport" class="d-inline" onsubmit="return jQueryAjaxDelete(this);">                       
+                        <input type="submit" value="Delete" class="btn btn-danger" />
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

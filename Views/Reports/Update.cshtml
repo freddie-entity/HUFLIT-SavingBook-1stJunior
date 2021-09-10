@@ -1,0 +1,39 @@
+﻿@model test.Models.Report
+
+@{
+    Layout = null;
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Update" asp-route-id="@Model.IdReport" onsubmit="return jQueryAjaxPost(this);" autocomplete="off">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdReport" />
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label asp-for="From" class="control-label"></label>
+                        <input asp-for="From" class="form-control" />
+                        <span asp-validation-for="From" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label asp-for="To" class="control-label"></label>
+                        <input asp-for="To" class="form-control" />
+                        <span asp-validation-for="To" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center">
+                <input type="submit" value="Submit" class="btn btn-dark" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+

@@ -1,0 +1,109 @@
+﻿@model IEnumerable<test.Models.Staff>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+
+<h1 class="text-center text-warning">
+    <i class="fas fa-user"></i>
+    Staff
+</h1>
+<div class="text-left">
+
+    <form class="form-inline mr-auto w-100 navbar-search" method="get" asp-action="Index">
+        <div class="input-group">
+            <input type="text" class="form-control bg-light border-dark small"
+                   placeholder="Enter data ID..." aria-label="Search"
+                   aria-describedby="basic-addon2" value="@ViewData["GetDetails"]" name="text" style="width:auto;">
+            <div class="input-group-append">
+                <button class="btn btn-sm" type="submit">
+                    <i class="fas fa-search"></i>
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+<hr />
+
+
+<table class="table table-bordered table-hover text-center">
+    <thead class="bg-gradient-warning text-white">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NameS)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bank)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DOBS)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IDCardS)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PositionS)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneS)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WorkingStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartWorking)
+            </th>
+            <th>
+                <a style="border: solid 1px white" class="btn btn-warning" asp-action="Create">
+                    <i class="fas fa-people-arrows"></i>
+                    Create New
+                </a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NameS)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Bank.NameBank)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DOBS)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IDCardS)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PositionS)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneS)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WorkingStatus)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StartWorking)
+                </td>
+                <td>
+                    <a style="width:90px;" class="btn btn-primary" asp-action="Create" asp-route-id="@item.IdS">
+                        <i class="fas fa-edit"></i>
+                        Edit
+                    </a>
+                    <a style="width:90px;" class="btn btn-danger" asp-action="Delete" asp-route-id="@item.IdS">
+                        <i class="fas fa-trash"></i>
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

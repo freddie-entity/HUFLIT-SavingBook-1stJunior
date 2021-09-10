@@ -1,0 +1,78 @@
+﻿@model Customer
+<h1>Create</h1>
+@{
+    Layout = null;
+
+}
+
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+
+<div class="row">
+    <div class="col-md-12">
+        @*asp-route-id="@Model.IdCust"*@
+        <form asp-action="Create" onsubmit="return jQueryAjaxPost(this);" autocomplete="off">
+            <div asp-validation-summary="ModelOnly"></div>
+            <input type="hidden" asp-for="IdCust" />
+
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="NameCust" class="control-label"></label>
+                        <input asp-for="NameCust" class="form-control" />
+                        <span asp-validation-for="NameCust" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="PhoneCust" class="control-label"></label>
+                        <input asp-for="PhoneCust" class="form-control" />
+                        <span asp-validation-for="PhoneCust" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="control-label">Birth Day</label>
+                        <input id="DOBCust" type="datetime-local" name="DOBCust" class="form-control" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="AddressCust" class="control-label"></label>
+                        <input asp-for="AddressCust" class="form-control" />
+                        <span asp-validation-for="AddressCust" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="IDCardCust" class="control-label"></label>
+                        <div class="input-group"><div class="input-group-prepend"><div class="input-group-text">#</div></div><input asp-for="IDCardCust" class="form-control" /></div>
+
+                        <span asp-validation-for="IDCardCust" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="control-label">ID Granted Day</label>
+                        <input id="IDCardGrantedDayCust" type="datetime-local" name="IDCardGrantedDayCust" class="form-control" />
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="text-center">
+                <div class="form-group">
+                    <input type="submit" value="Commit" class="btn btn-primary btn-block" />
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

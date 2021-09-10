@@ -1,0 +1,45 @@
+﻿@model IEnumerable<test.Models.AppUser>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+<h1 class="text-center">All Users</h1>
+
+@if (Model.Any())
+{
+<div class="text-right">
+    <a class="btn btn-primary" asp-area="Views" asp-action="Register" asp-controller="Account" style="width:auto">Create New User</a>
+</div>
+    <hr />
+    foreach (var user in Model)
+    {
+        <div class="card mb-3">
+            <div class="card-header">
+                User Id: @user.Id
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">@user.UserName</h5>
+            </div>
+            <div class="card-footer">
+                <a style="border: solid black 1px;" href="#" class="btn btn-primary">Edit</a>
+                <a style="border: solid black 1px;" asp-action="DeleteUser" asp-controller="Administration" asp-route-id="@user.Id" class="btn btn-outline-danger" onclick="return confirm('Are you sure to delete @user.UserName ?')">Delete</a>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <div class="card mb-3">
+        <div class="card-header">
+            No users have been created yet.
+        </div>
+        <div class="card-body">
+            Use the button to create new users.
+        </div>
+        <div class="card-footer">
+            <a class="btn btn-primary" asp-area="Views" asp-action="Register" asp-controller="Account" style="width:auto">Create new user</a>
+        </div>
+    </div>
+}

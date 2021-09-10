@@ -1,0 +1,112 @@
+﻿@model IEnumerable<test.Models.DetailReport>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+
+<h1 class="text-center mb-5 mt-5 text-success">
+    <i class="text-success fas fa-chart-bar mr-3"></i>
+    Detail Reports
+</h1>
+
+<table class="table table-bordered mb-5 text-center">
+    <thead class="text-white bg-gradient-primary">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Report)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OpenedBooks)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClosedBooks)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalBooks)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalRevenue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalExpense)
+            </th>
+            <th>
+                <a style="border: solid 1px white;" class="text-white btn btn-outline-success" asp-action="Create">
+                    <i class="fas fa-chart-bar"></i>
+                    Create New
+                </a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Report.IdReport)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BookType.IdBookType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OpenedBooks)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ClosedBooks)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalBooks)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalRevenue)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalExpense)
+                </td>
+                <td>
+                    <a asp-action="Create" asp-route-id="@item.IdDR">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdDR">Delete</a>
+                </td>
+            </tr>
+
+
+        }
+    </tbody>
+</table>
+
+<div class="mb-5" id="myfirstchart" style="height: 250px;"></div>
+
+
+<script>
+    new Morris.Line({
+        // ID of the element in which to draw the chart.
+        element: 'myfirstchart',
+        // Chart data records -- each entry in this array corresponds to a point on
+        // the chart.
+        
+        data: [            
+            { year: '2008', value: 20 },
+            { year: '2009', value: 10 },
+            { year: '2010', value: 5 },
+            { year: '2011', value: 5 },
+            { year: '2012', value: 20 }
+        ],
+        // The name of the data record attribute that contains x-values.
+        xkey: 'year',
+        // A list of names of data record attributes that contain y-values.
+        ykeys: ['value'],
+        // Labels for the ykeys -- will be displayed when you hover over the
+        // chart.
+        labels: ['Value']
+    });
+</script>
+
+
+

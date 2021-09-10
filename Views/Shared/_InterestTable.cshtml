@@ -1,0 +1,28 @@
+﻿@model IEnumerable<test.Models.Interest>
+    <link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+
+    <table id="booktypesTable" class="table table-bordered">
+        <thead class="thead-dark text-white">
+            <tr>
+                <th>Book Type Name</th>
+                <th><a asp-action="Update">Create</a> </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdInterest)
+                        @Html.DisplayFor(modelItem => item.AppliedFrom)
+                        @Html.DisplayFor(modelItem => item.AppliedTo)
+                    </td>
+                    <td>
+                        <a asp-action="Update" asp-route-id="@item.IdInterest">Edit</a> |
+                        <a asp-action="Delete" asp-route-id="@item.IdInterest">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>

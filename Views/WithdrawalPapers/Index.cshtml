@@ -1,0 +1,78 @@
+﻿@model IEnumerable<test.Models.WithdrawalPaper>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<AppUser> signInManager;
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+<h1 class="text-center">
+    <i class="fas fa-paper-plane"></i>
+    Withdrawal Transaction History
+</h1>
+
+<table class="table table-bordered table-hover text-center">
+    <thead class="bg-dark text-white">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SavingBook)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Customer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Staff)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bank)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WithdrawalsWP)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TransactionTimeWP)
+            </th>
+            <th>
+                <a style="border: solid 1px white" class="btn btn-outline-light" asp-action="Create">
+                    <i class="fas fa-paper-plane mr-2"></i>
+
+                    Create New
+                </a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SavingBook.IdSB)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Customer.IdCust)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Staff.IdS)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Bank.IdBank)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WithdrawalsWP)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TransactionTimeWP)
+                </td>
+                <td>
+                    @if (signInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                    {
+                        <a class="btn btn-primary" asp-action="Create" asp-route-id="@item.IdWP">Edit</a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.IdWP">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

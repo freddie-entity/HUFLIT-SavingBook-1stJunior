@@ -1,0 +1,250 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Assets\**" />
+    <Compile Remove="Views\Views\**" />
+    <Content Remove="Assets\**" />
+    <Content Remove="Views\Views\**" />
+    <EmbeddedResource Remove="Assets\**" />
+    <EmbeddedResource Remove="Views\Views\**" />
+    <None Remove="Assets\**" />
+    <None Remove="Views\Views\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\lib\bootswatch\bootstrap.css.map" />
+    <Content Remove="wwwroot\lib\bootswatch\bootstrap.min.css.map" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Shared\AccessDenied.cshtml" />
+    <None Include="Views\Account\Index.cshtml" />
+    <None Include="Views\Account\Login.cshtml" />
+    <None Include="Views\Account\Register.cshtml" />
+    <None Include="Views\Account\_LoginPartialView.cshtml" />
+    <None Include="Views\Bank\Create.cshtml" />
+    <None Include="Views\Bank\Index.cshtml" />
+    <None Include="Views\Customer\Create.cshtml" />
+    <None Include="Views\Customer\Index.cshtml" />
+    <None Include="Views\Customer\_CustomerList.cshtml" />
+    <None Include="Views\DataTable\Index.cshtml" />
+    <None Include="Views\DepositPapers\Create.cshtml" />
+    <None Include="Views\DepositPapers\Index.cshtml" />
+    <None Include="Views\DetailReports\Create.cshtml" />
+    <None Include="Views\DetailReports\Index.cshtml" />
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Home\Privacy.cshtml" />
+    <None Include="Views\Reports\Index.cshtml" />
+    <None Include="Views\Reports\Update.cshtml" />
+    <None Include="Views\SavingBooks\Create.cshtml" />
+    <None Include="Views\SavingBooks\Index.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+    <None Include="Views\Shared\NotFound.cshtml" />
+    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Staffs\Create.cshtml" />
+    <None Include="Views\Staffs\Index.cshtml" />
+    <None Include="Views\WithdrawalPapers\Create.cshtml" />
+    <None Include="Views\WithdrawalPapers\Index.cshtml" />
+    <None Include="Views\_ViewImports.cshtml" />
+    <None Include="Views\_ViewStart.cshtml" />
+    <None Include="wwwroot\js\notify.min.js" />
+    <None Include="wwwroot\js\site.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\addons\datatables-select.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\addons\datatables-select2.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\addons\datatables.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\addons\datatables2.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\addons\directives.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\addons\flag.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\addons\jquery.zmd.hierarchical-display.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\addons\rating.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\modules\animations-extended.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\LICENSE" />
+    <None Include="wwwroot\lib\bootswatch\bootstrap.css.map" />
+    <None Include="wwwroot\lib\bootswatch\bootstrap.min.css.map" />
+    <None Include="wwwroot\lib\font-awesome\js\all.js" />
+    <None Include="wwwroot\lib\font-awesome\js\all.min.js" />
+    <None Include="wwwroot\lib\font-awesome\js\brands.js" />
+    <None Include="wwwroot\lib\font-awesome\js\brands.min.js" />
+    <None Include="wwwroot\lib\font-awesome\js\conflict-detection.js" />
+    <None Include="wwwroot\lib\font-awesome\js\conflict-detection.min.js" />
+    <None Include="wwwroot\lib\font-awesome\js\fontawesome.js" />
+    <None Include="wwwroot\lib\font-awesome\js\fontawesome.min.js" />
+    <None Include="wwwroot\lib\font-awesome\js\regular.js" />
+    <None Include="wwwroot\lib\font-awesome\js\regular.min.js" />
+    <None Include="wwwroot\lib\font-awesome\js\solid.js" />
+    <None Include="wwwroot\lib\font-awesome\js\solid.min.js" />
+    <None Include="wwwroot\lib\font-awesome\js\v4-shims.js" />
+    <None Include="wwwroot\lib\font-awesome\js\v4-shims.min.js" />
+    <None Include="wwwroot\lib\font-awesome\sprites\brands.svg" />
+    <None Include="wwwroot\lib\font-awesome\sprites\regular.svg" />
+    <None Include="wwwroot\lib\font-awesome\sprites\solid.svg" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-brands-400.svg" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-regular-400.svg" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-regular-400.woff2" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-solid-900.svg" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff2" />
+    <None Include="wwwroot\lib\jquery-easing\jquery.easing.compatibility.js" />
+    <None Include="wwwroot\lib\jquery-easing\jquery.easing.compatibility.min.js" />
+    <None Include="wwwroot\lib\jquery-easing\jquery.easing.compatibility.min.js.map" />
+    <None Include="wwwroot\lib\jquery-easing\jquery.easing.js" />
+    <None Include="wwwroot\lib\jquery-easing\jquery.easing.min.js" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\LICENSE.md" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.map" />
+    <None Include="wwwroot\lib\multiple-select\multiple-select.min.js" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.js.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\bootstrap-grid.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\bootstrap-reboot.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\bootstrap.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_alert.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_background-variant.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_badge.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_border-radius.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_box-shadow.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_breakpoints.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_buttons.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_caret.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_clearfix.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_deprecate.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_float.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_forms.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_gradients.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_grid-framework.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_grid.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_hover.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_image.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_list-group.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_lists.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_nav-divider.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_pagination.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_reset-text.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_resize.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_screen-reader.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_size.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_table-row.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_text-emphasis.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_text-hide.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_text-truncate.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_transition.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\mixins\_visibility.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_align.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_background.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_borders.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_clearfix.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_display.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_embed.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_flex.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_float.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_interactions.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_overflow.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_position.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_screenreaders.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_shadows.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_sizing.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_spacing.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_stretched-link.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_text.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\utilities\_visibility.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\vendor\_rfs.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_alert.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_badge.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_breadcrumb.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_button-group.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_buttons.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_card.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_carousel.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_close.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_code.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_custom-forms.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_dropdown.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_forms.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_functions.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_grid.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_images.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_input-group.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_jumbotron.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_list-group.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_media.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_mixins.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_modal.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_nav.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_navbar.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_pagination.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_popover.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_print.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_progress.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_reboot.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_root.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_spinners.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_tables.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_toasts.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_tooltip.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_transitions.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_type.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_utilities.scss" />
+    <None Include="wwwroot\lib\twitter-bootstrap\scss\_variables.scss" />
+    <None Include="wwwroot\sbadmin\js\demo\chart-area-demo.js" />
+    <None Include="wwwroot\sbadmin\js\demo\chart-bar-demo.js" />
+    <None Include="wwwroot\sbadmin\js\demo\chart-pie-demo.js" />
+    <None Include="wwwroot\sbadmin\js\demo\datatables-demo.js" />
+    <None Include="wwwroot\sbadmin\js\sb-admin-2.js" />
+    <None Include="wwwroot\sbadmin\js\sb-admin-2.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Westwind.AspNetCore.LiveReload" Version="0.3.0" />
+  </ItemGroup>
+
+
+ 
+
+</Project>

@@ -1,0 +1,86 @@
+﻿@model IEnumerable<test.Models.DepositPaper>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<AppUser> signInManager;
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/lib/bootswatch/bootstrap.css" rel="stylesheet" />
+
+
+<h1 class="text-center">
+    <i class="fas fa-dollar-sign text-success"></i>
+    Deposit Transaction History
+</h1>
+
+
+<table class="table table-bordered table-hover text-center">
+    <thead class="bg-gradient-success text-white">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SavingBook)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Customer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Staff)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bank)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DepositsDP)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TransactionTimeDP)
+            </th>
+            <th>
+                <a style="border: solid 1px white" class="btn btn-success" asp-action="Create">
+                    <i class="fas fa-plus mr-2"></i>
+                    Create New
+                </a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SavingBook.IdSB)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Customer.IdCust)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Staff.IdS)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Bank.IdBank)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BookType.IdBookType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DepositsDP)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TransactionTimeDP)
+                </td>
+                <td>
+                    @if (signInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                    {
+                        <a class="btn btn-primary" asp-action="Create" asp-route-id="@item.IdDP">Edit</a> 
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.IdDP">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
